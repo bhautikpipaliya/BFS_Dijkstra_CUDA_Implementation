@@ -1,0 +1,15 @@
+To compile the program
+
+Run make
+
+To run the program
+
+./bfs_frontier
+
+To clean the files
+
+Run make clean
+
+NOTE:
+you can change number of vertices inside the code file
+

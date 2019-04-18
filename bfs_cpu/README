@@ -1,0 +1,17 @@
+To compile the program
+
+Run make
+
+To run the program
+
+./bfs_cpu numberOfVertices
+
+for ex:
+
+./bfs_cpu 1024
+
+To clean the files
+
+Run make clean
+
+

@@ -1,0 +1,17 @@
+To compile the program
+
+Run make
+
+To run the program
+
+./bfs_unoptimized numberOfVertices
+
+for ex:
+
+./bfs_unoptimized 1024
+
+To clean the files
+
+Run make clean
+
+
